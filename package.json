@@ -1,5 +1,5 @@
 {
-    "name": "@and249/astro-wordpress",
+    "name": "@calvez/astro-wordpress",
     "type": "module",
     "version": "0.0.1",
     "private": true,
